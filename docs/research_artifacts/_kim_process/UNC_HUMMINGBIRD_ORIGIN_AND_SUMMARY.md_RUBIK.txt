@@ -1,0 +1,52 @@
+Source Document: HUMMINGBIRD_ORIGIN_AND_SUMMARY.md
+Document Type: Markdown
+Processing Date: November 24, 2025
+Primary Category: UNC - Unclassified (Simulated Processing)
+Secondary Categories: PRD-ARCH, PRD-UX, PRD-FEAT-AUT, PRD-FEAT-SUP, MKT-GTM, STK-USER-PRI, STK-USER-ADM, STK-USER-BEN
+Complexity: Complex
+
+Executive Summary:
+This document chronicles Hummingbird's origin story, from an informal chat in Summer 2024 to its current state of rapid prototyping using Lovable. It details the foundational research phases, including teacher/admin interviews, parent surveys, and bullseye interviews, which uncovered significant pain points in the existing parent-teacher communication stack (like ClassDojo). Early product attempts faced challenges due to lack of direction and UX cohesion. The discovery of Lovable enabled rapid prototyping of user states (Parent, Teacher, Admin), prioritizing parent needs first, then teacher workflows (introducing AI agents), and finally exploring ambitious admin features that were later scaled back for MVP. The current challenge is to unify these explorations into a clean MVP and phased roadmap, leveraging an AI-first approach. The document outlines the role of an Outside PM Agent in synthesizing artifacts, defining features, and producing a unified PRD.
+
+Origin Story:
+- Started Summer 2024 with Kim Whitman and Jenn Duffield (Dancing Moose Montessori owner) discussing frustrations with the current parent-teacher communication stack.
+- Initial question: "What would a modern, AI-forward parent engagement platform look like if built from scratch for Montessori and early childhood?"
+
+Foundational Research (Summer–Fall 2024):
+- Teacher & Admin Interviews: Revealed teachers overwhelmed by documentation, parents frustrated with fragmentation, admins needing consistency and ROI.
+- Parent–Teacher Communication Survey: Highlighted desires for clarity, reliability, connection, timeliness, and transparency.
+- External Bullseye Interviews: Conducted by an external researcher, clarifying core pains and expectations.
+- Marketing / ICP Work: Refined early Ideal Customer Profiles (ICPs) and messaging foundations.
+
+Early Product Attempts & Gap (July 2025):
+- An early UX lead built frontend components but lacked a single source of truth, Figma map, unified direction, or durable architecture, leading to the lead's departure.
+- Key missing elements: clear UX, cohesive product direction, durable architecture.
+
+Discovering Lovable & Rapid Prototyping (Sept 2025–now):
+- Lovable, a tool for rapid "vibe-coded" prototyping via natural language prompts, was discovered as the fastest path to clarify UX, test assumptions, demo, and gather reactions before coding.
+- Prototyping was structured by user states: Parent → Teacher → Admin.
+
+Prototyping by User State:
+- Parent User State (First Build): Designed for Kim's own pains (disconnection, missed updates, fragmentation). Became the north star for "delight."
+- Teacher User State: Focused on reducing teacher cognitive load, automating tasks (AI-tagging, captioning, batch processing), supporting subtle gamification, and enabling "review → edit → approve" workflows. Explored AI agents for task handling.
+- Admin User State: Initially lightly prototyped, then expanded based on interviews and AI synthesis into an aspirational prototype (too complex for MVP) showcasing long-range vision, later scaled back.
+
+Re-Simplification into MVP (Fall 2025):
+- Stripped down features to essential parent needs, realistic teacher capabilities, and administrator operational viability.
+- Resulted in smaller prototypes for different slices of the experience.
+
+Current Challenge – Unifying Everything:
+- Consolidating multiple Lovable prototypes, research artifacts, and AI-synthesized insights.
+- Defining a clean MVP, phased roadmap, agent-augmented workflows, and an AI-first development approach.
+
+Role of Outside PM Agent:
+- Synthesize artifacts.
+- Extract feature inventories per user state.
+- Identify core jobs-to-be-done for personas.
+- Distill into a unified Product Requirements Document (PRD).
+- Define a crisp MVP and phased roadmap.
+- Ensure UX and data model support future AI automation.
+
+Project Links:
+- Lovable projects linked: chickakee-connect (parent focus), hummingbird-reverse-engineer (admin aspirational), Hummingbird-mvp-school-pilot (teacher agent), Hummingbird-mvp-garden-campus (toddler charts), Little-moose-connect (closest to MVP).
+- Other documents: PDFs, ChatGPT archives, Poppy syntheses, ICP/persona work, etc.

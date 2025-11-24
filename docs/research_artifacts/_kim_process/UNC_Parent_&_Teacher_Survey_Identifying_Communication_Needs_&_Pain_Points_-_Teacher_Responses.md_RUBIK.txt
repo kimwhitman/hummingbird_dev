@@ -1,0 +1,37 @@
+Source Document: Parent_&_Teacher_Survey_Identifying_Communication_Needs_&_Pain_Points_-_Teacher_Responses.md
+Document Type: Survey Responses (Markdown Table)
+Processing Date: November 24, 2025
+Primary Category: UNC - Unclassified (Simulated Processing)
+Secondary Categories: STK-USER-PRI, STK-USER-ADM, NPR-PAIN, PRD-FEAT-COM, PRD-FEAT-SCH, PRD-FEAT-ANL, PRD-FEAT-SUP, PRD-FEAT-AUT
+Complexity: Moderate
+
+Executive Summary:
+This document summarizes teacher responses from a survey on communication needs and pain points, primarily focusing on their experiences with Class Dojo. Key findings indicate that while many teachers rate Class Dojo satisfaction between 3-5/5, a significant number spend 30-60 minutes or more daily on documentation, with many expressing a desire for reduced manual work. The most prevalent pain points revolve around the time-consuming nature of documentation, difficulty reaching parents who don't check the app, fragmented communication, limitations in uploading media (photos, videos), and the need for better organizational tools like pinned posts or integrated calendars. Desired features include automation, AI assistance for content creation and parent messaging, improved media handling, better group communication options, integrated behavior/incident tracking, and more direct/real-time communication methods.
+
+Stakeholder Insights (Teachers):
+- Satisfaction with Class Dojo varies, with most rating it 3-5/5.
+- Time spent on documentation: A substantial portion spends 30-60 minutes daily, with some exceeding 1-2 hours.
+- Preference for reduced manual documentation: Many teachers (over half) expressed a preference or desire for this.
+
+Needs and Problems:
+- Time-Consuming Documentation: The most frequently cited pain point across responses.
+- Parent Engagement Challenges: Difficulty reaching parents who don't check Class Dojo, or who are unresponsive when their child is sick.
+- Communication Fragmentation: Need for unified communication channels, ability to respond to comments/likes, group messaging for multiple parents/staff, and direct chat features.
+- Media Handling Limitations: Difficulty uploading multiple photos, videos, or summarizing images; desire for in-app camera functionality.
+- Organizational Tools: Need for pinned posts, integrated calendars, date-stamped posts, and better message threading.
+- Inconsistent Quality: Variations in content quality across teachers and staff.
+- Lack of Integrated Systems: Desire for unified systems for behavior tracking, incident reports, lesson planning, and parent communication.
+
+Context Insights:
+- Locations: Responses come from River Park Campus, Museum Campus, and Garden Campus of Dancing Moose schools.
+- Positions: Teachers (Lead, Co, Assistant), Admins, Floaters, and Substitute Teachers responded.
+- Current System: Class Dojo is the primary system discussed, with many teachers willing to use alternatives if they are more efficient.
+
+Product Signals:
+- Feature Needs:
+    - Automation: AI for content generation, summarizing, reporting, and parent messages.
+    - Communication: Group messaging (parents + teachers), direct chat, in-app camera, better notification systems (message bubbles), unified platforms for all school tools.
+    - Documentation: Voice-to-text, batch photo/video upload and tagging, digital forms, easier daily report creation.
+    - Organization: Pinned posts, integrated calendars, date-stamping, message threading.
+    - Specific Functionality: Behavior point systems, integrated incident reporting, appointment setting, CRM-like features.
+    - Performance: Faster upload times, improved app responsiveness.

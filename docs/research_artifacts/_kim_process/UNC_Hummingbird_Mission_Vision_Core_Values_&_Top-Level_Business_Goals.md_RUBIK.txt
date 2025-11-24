@@ -1,0 +1,37 @@
+Source Document: Hummingbird_Mission_Vision_Core_Values_&_Top-Level_Business_Goals.md
+Document Type: Markdown
+Processing Date: November 24, 2025
+Primary Category: UNC - Unclassified (Simulated Processing)
+Secondary Categories: BIZ-GOAL, BIZ-ORG, MKT-GTM, PRD-ARCH, PRD-FEAT-AUT, PRD-FEAT-SUP, PRD-UX
+Complexity: Moderate
+
+Executive Summary:
+This document outlines Hummingbird's mission, vision, core values, and top-level business goals. The mission is to transform early childhood education using ethical AI to reduce teacher admin, deepen parent-child connection, and build vibrant school communities. The vision includes a short-term goal of liberating teachers and connecting families, and a long-term vision of impacting 80% of American preschool families and educators globally, eventually extending to 50% of child-rearing households with the Chickadee Chat app for behavioral patterns. Core values emphasize Human Connection, Teacher Liberation, Family Empowerment, Authentic Documentation, and Educational Excellence. The Valuable Final Product aims to create engaged communities where teachers are liberated, parents are empowered, administrators lead confidently, schools are market leaders, and children benefit from seamless experiences. The strategic POV highlights an AI-First, Human-Centered, and Healing-Driven approach, refusing extractive software and digital noise. Top-level business goals focus on Market Dominance in U.S. Preschools (10% market share by Y3, 100K+ monthly active parents, D2C Chickadee Chat launch), AI-Led Product Excellence (MVP with 90% admin tasks automated, 85%+ parental engagement), and Category Ownership (industry recognition, staff requests, "Most Innovative" award).
+
+Mission Statement:
+To transform early childhood education by using ethical AI to radically reduce teacher admin, deepen parent-child connection, build vibrant school communities, and bring joy and presence to classrooms where children can thrive.
+
+Vision Statements:
+- Short-term: Transform educational communities by liberating teachers from documentation burdens while creating meaningful connections between schools and families.
+- Long-term (8 years): Impact 80% of American preschool families/educators globally, extend to 50% of child-rearing households with Chickadee Chat for behavioral patterns. Vision includes "Positive human evolution. Powered by Al, driven by Love."
+
+Core Values:
+1. Human Connection: Technology enhances relationships.
+2. Teacher Liberation: Free educators from paperwork for presence and play.
+3. Family Empowerment: Transform parents into advocates.
+4. Authentic Documentation: Capture meaningful stories, not checkboxes.
+5. Educational Excellence: Elevate experience by connecting school and home.
+
+Valuable Final Product:
+Highly engaged communities where teachers are liberated, parents feel connected and empowered, administrators lead confidently, schools are market leaders, and children benefit from celebrated developmental milestones and documented journeys. Achieved by enhancing human connections, not replacing them.
+
+Strategic POV (Differentiation):
+- AI-First: Building from the future, optimizing workflows for speed, simplicity, intelligence.
+- Human-Centered: Respecting attention, emotional bandwidth, and privacy; enhancing trust.
+- Healing-Driven: Chickadee Chat as an engine to reprogram generational parenting patterns.
+Refuses: Extractive software, vanity metrics, creating digital noise.
+
+Top-Level Business Goals (3-Year Outlook):
+1. Market Dominance in U.S. Preschools: 10% market share of premium preschools, 100K+ monthly active parents, $1M ARR for Chickadee Chat D2C.
+2. Al-Led Product Excellence: MVP with 90% admin tasks automated, 85%+ parental engagement, 80+ SUS score.
+3. Category Ownership: Industry recognition as leading Al-powered solution, staff requests, "Most Innovative" award by Y2.

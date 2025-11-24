@@ -1,0 +1,25 @@
+Source Document: ROI_Dashboard_Hierarchy_Data_Storytelling_Arc.md
+Document Type: Specification / Wireframe Descriptions
+Processing Date: November 24, 2025
+Primary Category: UNC - Unclassified (Simulated Processing)
+Secondary Categories: PRD-ARCH, PRD-UX, PRD-FEAT-ANL, PRD-FEAT-SUP, BIZ-GOAL, MKT-GTM
+Complexity: Complex
+
+Executive Summary:
+This document details a multi-layer ROI Dashboard hierarchy for Hummingbird, designed to showcase the data storytelling arc from teacher-level micro-actions to parent delight, administrator ROI, and network/industry benchmarking. It outlines five layers: Daily (Teacher-Level), Weekly (Classroom-Level), Monthly (School-Level), Quarterly (Network-Level), and Industry-Level (Benchmarking). Each layer is defined by its audience, focus, modules, and desired outcome. The document also includes demo narrative anchors for each layer and structured text wireframe descriptions for each ROI dashboard layer, intended to guide visual mockups and development. The overarching goal is to demonstrate tangible value from micro-actions to strategic business outcomes.
+
+ROI Dashboard Hierarchy:
+-   **Layer 1: Daily (Teacher-Level):** Focuses on teacher ease of capture and gamification feedback (prompts, capture stats, micro-badges, celebrations). Outcome: Teachers feel supported.
+-   **Layer 2: Weekly (Classroom-Level):** Focuses on consistency and time saved per classroom, celebrating weekly wins and spotting early coaching needs (weekly snapshots, badge conversion, leaderboards, parent delight feedback). Outcome: Admins spot coaching needs.
+-   **Layer 3: Monthly (School-Level):** Focuses on school ROI and progress over time for administrators (month-over-month comparisons, badge trends, parent delight vs. badges overlay, classroom comparison tables). Outcome: Admins see improvement trajectory.
+-   **Layer 4: Quarterly (Network-Level):** Focuses on network-wide ROI and business outcomes for multi-site owners (executive summaries, multi-site tables, badge growth, wins highlight reel). Outcome: Owners track ROI across sites.
+-   **Layer 5: Benchmarking (Industry-Level):** Focuses on competitive positioning and aspiration for visionary leaders (national vs. network comparisons, quartile snapshots, badge benchmarks, actionable insights). Outcome: Competitive edge and leadership.
+
+Demo Narrative Flow:
+Anchors are provided for each layer, telling a story from teacher micro-wins to national market leadership.
+
+Wireframe Descriptions:
+Detailed UX/UI spec notes are provided for each layer (Daily, Weekly, Monthly, Quarterly, Benchmarking), outlining layout, visual style, and key elements to guide mockups and development in tools like Lovable or Figma. This includes specific examples for prompts, stats, badges, charts, and tables.
+
+Overall Goal:
+To create a comprehensive data storytelling arc that connects micro-teacher actions to macro-business impact, demonstrating value at every level from individual educators to network executives.
