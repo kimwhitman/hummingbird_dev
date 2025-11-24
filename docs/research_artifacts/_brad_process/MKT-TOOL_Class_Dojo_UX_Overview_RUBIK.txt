@@ -1,0 +1,47 @@
+
+Source Document: Class_Dojo_UX_Overview.md
+Document Type: Competitive UX Analysis, Markdown, 5KB
+Processing Date: 2025-11-24
+Primary Category: MKT-TOOL - Current Tools & Solutions
+Secondary Categories: PRD-UX, PRD-FEAT, STK-USER, MKT-COMP
+Complexity: Moderate
+
+### Executive Summary
+This document provides a detailed breakdown of the ClassDojo application's User Experience (UX) and Information Architecture (IA) for its three primary user roles: Parent, Teacher, and School-Leader/Admin. Structured as a series of tables, it maps out the app's navigation, from the main bottom tab bar to contextual top tabs and specific feature sets within each section. The analysis reveals a sophisticated, role-based platform that presents a tailored interface and toolset to each user, while maintaining a consistent design language. It serves as a valuable piece of competitive intelligence, reverse-engineering the product structure of a major market player.
+
+### Stakeholder Insights
+- **Stakeholder Types Identified:** The document's structure is built around three distinct user roles, providing clear insight into how ClassDojo serves each one:
+    - **Parents (Secondary Users):** Their experience is centered on consumption and light interaction. The UI prioritizes viewing their child's "Story," "Portfolio," and "Reports," and engaging in direct "Chats" with teachers. The inclusion of "Dojo Islands" (a game) indicates a strategy to engage the child directly at home.
+    - **Teachers (Primary Users):** Their experience is focused on creation and classroom management. The UI gives them quick access to their "Classes," a "School" wide view, and a universal "+" button for frequent actions like posting content. The "Teacher Toolkit" (Timer, Randomizer) shows a focus on in-classroom utility.
+    - **Admins/School-Leaders (Administrative Users):** Their experience is about oversight and administration. The UI is dominated by school-wide views like "Insights" (engagement analytics), "Directory" (roster management), and "Points Dashboard." They have powerful tools for bulk actions, school settings, and communication broadcasts.
+
+### Product Intelligence
+- **UX Patterns & Interfaces (PRD-UX):** The analysis catalogs the specific UX patterns ClassDojo employs:
+    - **Navigation:** A main bottom tab bar for primary user contexts, with contextual top tabs for sub-navigation within a section. A universal "+" button for teachers/admins provides quick access to core creation tasks.
+    - **Content Views:** A "Story" feed (card-based), a "Portfolio" grid, a "Chats" list/thread view, and "Reports" graphs.
+    - **Key UI Elements:** Child switcher toggles, unified inboxes with filters, and dashboards with engagement cards.
+- **Feature Needs & Capabilities (PRD-FEAT):** The document inventories ClassDojo's features, demonstrating a mature, full-stack offering:
+    - **Communication (PRD-FEAT-COM):** 1-to-1 and group chats, school-wide broadcasts, read receipts, and translation.
+    - **Content (PRD-FEAT-CNT):** "Story" and "Portfolio" features for sharing student work and class activities.
+    - **Analytics (PRD-FEAT-ANL):** "Insights" dashboards for admins showing engagement metrics, and "Reports" for parents showing points and skills.
+    - **Social/Gamification (PRD-FEAT-SOC):** A school-wide "Points" system, which is a core, recurring feature across all user experiences. The "Dojo Islands" game extends this into the home.
+    - **Admin & Roster Management (PRD-FEAT-CFG):** A comprehensive "Directory" for managing students, staff, and classes, with SIS sync and bulk import/export capabilities.
+
+### Market Intelligence
+- **Current Tools & Solutions:** This entire document is a deep dive into ClassDojo, a primary competitor. It reveals their product strategy is to provide a comprehensive, all-in-one platform that serves the distinct needs of each stakeholder in the school ecosystem.
+- **Competitive Landscape:** The feature set detailed here establishes a baseline for what a competitive product in this market must offer. Key "table stakes" features appear to be a story/feed, messaging, and some form of progress/behavior tracking (Points).
+- **Differentiation:** A key differentiator for ClassDojo is its heavy investment in a gamified "Points" system and the "Dojo Islands" game, which creates a unique engagement loop that directly involves the child. This is a dimension other competitors (like Brightwheel, based on other research) do not emphasize as heavily.
+
+### Key Data Points
+- **Admin "Insights" feature:** This feature, which shows metrics like "msgs sent, photos shared, % positive feedback," is a strong indicator of the KPIs that school leaders are encouraged to track.
+- **Universal "+" button:** This UX choice for teachers/admins highlights the core, high-frequency actions of the platform: Posting content, sending messages, and awarding points.
+
+### Open Questions
+- How effective is the "Dojo Islands" game at driving engagement and a B2C upsell?
+- The document mentions "ClassDojo Plus paywall." What features are behind this paywall for parents, and what is the conversion rate?
+- How do schools and districts use the exported CSV reports for PBIS (Positive Behavioral Interventions and Supports) and MTSS (Multi-Tiered System of Supports)? This points to a deeper integration with formal pedagogical frameworks.
+
+### Strategic Implications
+- **Product Strategy:** To compete with ClassDojo, a product cannot be a simple point solution. It must be a multi-stakeholder platform. ClassDojo's UX provides a market-validated blueprint for how to structure the IA for different user roles.
+- **Feature Prioritization:** A competitive product must have a strong story/feed feature, robust messaging capabilities, and some form of progress/behavior tracking. The "Teacher Toolkit" also suggests that simple, in-classroom utility tools can be a significant value-add for teachers.
+- **Differentiation:** Competing with ClassDojo on gamification ("Points") would be difficult as it is core to their brand. A better strategy, as implied by other research, would be to differentiate on other axes, such as deeper pedagogical insights, AI-driven content assistance, or a more professional/premium feel versus Dojo's playful, game-like aesthetic.

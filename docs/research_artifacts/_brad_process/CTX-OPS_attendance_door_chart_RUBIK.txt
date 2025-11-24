@@ -1,0 +1,44 @@
+
+Source Document: attendance_door_chart.md
+Document Type: Operational Document (Attendance Roster), Markdown, 1.5KB
+Processing Date: 2025-11-24
+Primary Category: CTX-OPS - Operational Context
+Secondary Categories: STK-USER-BEN, MKT-TOOL, PRD-FEAT-ANL
+Complexity: Simple
+
+### Executive Summary
+This document is a physical or digital representation of a daily attendance chart for "Classroom 12" on Mondays, Wednesdays, and Fridays. It lists 23 children by name, includes their ages, and has columns for marking attendance and tracking "Weekly Dojo" points. The chart serves as a primary tool for the fundamental operational task of recording student presence. The inclusion of a "Dojo" column provides a direct signal about a competitor product being used in the current workflow. A "Daily Count" section at the bottom indicates a need for immediate, age-based reporting derived from the attendance data.
+
+### Stakeholder Insights
+- **Stakeholder Types Identified:** Beneficiaries (Children), and implicitly, Primary Users (Teachers).
+- **Beneficiaries (Children):** The roster lists 23 children, referred to as "Friend's Name," which reflects the pedagogical tone of the environment. Ages are listed, showing a mixed-age group of primarily 3- and 4-year-olds.
+- **Primary Users (Teachers):** The existence and structure of this chart imply a teacher's workflow. The teacher is responsible for marking attendance for each child and possibly tracking their "Dojo" points for the week.
+
+### Context Insights
+- **Operational Context:** This document is a tangible artifact of a core daily workflow: taking attendance. The format, a simple table, is likely representative of a paper chart posted on a door or a simple digital equivalent. It highlights the need for a quick, at-a-glance view of who is present. The "MWF" designation shows that scheduling and attendance can be based on specific days of the week, not just a universal 5-day schedule.
+- **Pedagogical Context:** The use of "Friend's Name" instead of "Student Name" is a small but significant indicator of the school's child-centric, friendly educational philosophy.
+
+### Market Intelligence
+- **Current Tools & Solutions:** The column titled "Weekly Dojo" is a strong piece of evidence that "Class Dojo" is an incumbent tool used within this classroom. It appears to be used for tracking weekly points or engagement, and this functionality is integrated directly into the teacher's core attendance workflow. This implies that any new product would need to either replace or integrate with this existing behavioral/engagement system.
+
+### Product Signals
+- **Feature Needs & Capabilities:**
+    - **Attendance (PRD-FEAT-CNT):** The entire document is a representation of a core attendance-taking feature. The need is for a simple, list-based view of a classroom roster where presence can be marked.
+    - **Analytics & Reporting (PRD-FEAT-ANL):** The "Daily Count" section at the bottom shows a clear user need for a real-time, simple report generated from attendance data (e.g., "how many 3-year-olds are here today?"). This is a basic but essential analytics requirement for licensing and safety.
+    - **Social & Community / Gamification (PRD-FEAT-SOC):** The "Weekly Dojo" column indicates a need for a system to track points, rewards, or some form of weekly engagement metric, suggesting gamification features are part of the current solution.
+
+### Key Data Points
+- **Critical Numbers:**
+    - Total students on roster: 23
+    - Number of 4-year-olds present in "Daily Count": 5
+- **Key Entities:** "Class Dojo" is identified as a current tool.
+
+### Open Questions
+- What is "Weekly Dojo" tracking specifically? Is it points, participation, or something else?
+- How is this chart used in practice? Is it a paper printout, a laminated sheet, or a digital display?
+- Why is the "Daily Count" for 3's and 5's empty? Was it not filled out, or were there none present?
+
+### Strategic Implications
+- **Product Development:** Any product targeting this market must have a robust, easy-to-use attendance feature as a baseline. The ability to handle day-specific rosters (like MWF) is a requirement.
+- **Competitive Landscape:** The presence of "Dojo" integrated into a core workflow like attendance is a major competitive signal. A new product must decide whether to offer a competing engagement/points system or find a way to integrate with Dojo. Simply ignoring this part of the teacher's workflow would be a mistake.
+- **Feature Prioritization:** A simple, real-time "dashboard" or view that shows the daily count of children by age, automatically calculated from attendance, would directly address the need shown at the bottom of this chart and likely be a high-value feature for teachers and administrators.
