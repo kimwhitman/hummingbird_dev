@@ -1,0 +1,70 @@
+
+Source Document: DM_Field_UX_Research_Interviews_-_Teacher_Admin_Exploratory_Interviews.md
+Document Type: Raw UX Research Interview Log, Markdown, 25KB
+Processing Date: 2025-11-24
+Primary Category: NPR-PAIN - Pain Points & Frustrations
+Secondary Categories: EVD-QUOTE, MKT-TOOL, CTX-OPS, PRD-FEAT, STK-USER
+Complexity: High
+
+### Executive Summary
+This document is a raw and highly detailed log of field UX research interviews with teachers and administrators at Dancing Moose schools. Presented as a large table, it catalogs direct observations, user actions, verbatim comments, and identified pain points related to their daily workflows, primarily centered around the use of ClassDojo. The findings reveal a significant gap between the features provided by their current tools and the actual needs of the users. A central theme is the prevalence of "workarounds"—clever but inefficient hacks users have invented to compensate for missing functionality. The research exposes major pain points in content creation, curriculum tracking, operational logging (especially for toddlers), and administrative oversight. This document is a primary source of evidence for deep user needs and provides a clear, unvarnished look at the operational reality in a modern childcare center.
+
+### Stakeholder Insights
+- **User Personas Identified:** The research identifies and provides evidence for several distinct personas:
+    - **#Admin / #SuperAdmin (Ms. Tania, Ashwini):** Focused on monitoring (posting quotas, incidents), school-wide communication, and efficiency. They are frustrated by jumbled feeds and the inability to separate critical announcements from the daily stream of photos.
+    - **#MentorTeacher (Jenn Balland):** A power user who develops complex workflows for her team, such as creating event templates that her team then copies and pastes. She desires the ability to act on behalf of her team to reduce redundant work.
+    - **#TheESLEducator (Ms. Aida, Ms. Araceli):** Relies on translation features. The cognitive load of composing captions in English on the fly is too high, forcing them to do it during lunch breaks. They show interest in voice-to-text and translation assistance.
+    - **#OverwhelmedNewcomer (Ms. Araceli):** Feels the pressure of the workload, spending 15-30 minutes *after school* to update toddler portfolio info. Prefers messaging over face-to-face parent comms because her "hands are full."
+
+### Needs and Problems
+This document is a rich repository of identified user needs and pain points, validated by direct observation.
+- **Pain Point: Inefficient Content Creation:** Teachers spend significant time on repetitive content.
+    - **Evidence:** "lots of repetitive captions / perfectionistic teachers compose in ChatGPT and paste them in per post which is slow and repetitive."
+    - **Workaround:** Creating "script banks" in Google Docs; editing videos in Instagram to add music before uploading; unarchiving old classes to copy/paste last year's event details.
+- **Pain Point: Lack of True "Tracking" Features:** The most significant finding is the widespread misuse of ClassDojo's "Points" system as a generic tracking mechanism.
+    - **Evidence:** "they're using Dojo's point system as a workaround to track who they've taken photos of each day." This was mentioned multiple times by different teachers.
+    - **Evidence:** A toddler teacher uses points to track: "Nap (how long), Snack, Lunch, needs diapers, needs wipes...".
+    - **Interpreted Need:** Users desperately need a flexible, built-in tracking system for a variety of non-point-related items, from weekly photo quotas to diaper needs.
+- **Pain Point: Disconnected Analog and Digital Workflows:** Critical information is still tracked on paper, requiring duplicate data entry into the app later.
+    - **Evidence:** Toddler teachers use "laminated sheets, markers, photos at the end of the day are uploaded to each child's portfolio one-by-one."
+    - **Evidence:** A preschool teacher "shows me several binders and whiteboards and paper assements that are all not linked" for curriculum tracking.
+- **Pain Point: Inadequate Admin Tools:** Admins struggle to get a clear signal from the noise.
+    - **Evidence:** Admin messages are "jumbled with the whole feed which is frustrating." They need "two toggles in messages, one just for her, one for monitoring all messages."
+    - **Evidence:** They want announcements to be in a separate, dedicated space, not "interspersed in the feed."
+
+### Market Intelligence
+- **Current Tools & Solutions:**
+    - **ClassDojo:** The primary tool, but it's being "hacked" extensively, indicating major feature gaps. Users report bugs (Android photo posting, frozen screens) and a lack of a support ticket system. However, some teachers are "pretty happy" with it for basic communication and love features like the random student selector. Dojo is also rolling out its own AI features ("Sidekick").
+    - **Procare:** Mentioned as the "Current System of Record," positioning it as the core SIS to integrate with.
+    - **Ad-hoc Stack:** Users are stitching together ChatGPT (for captions), Instagram (for video editing), and Google Docs (for caption banks) to fill the gaps left by Dojo.
+
+### Product Signals
+- **Feature Needs & Capabilities:**
+    - **Advanced Tracking (PRD-FEAT-ANL):** The #1 need is for a flexible, configurable tracking system beyond "points." This should handle daily toddler info (food, potty, nap) and teacher-specific quotas (photo taken).
+    - **AI-Powered Content Assistance (PRD-FEAT-AUT):** Users are already using external AI. An integrated feature for generating captions, translating text (especially via voice), and auto-tagging photos based on curriculum would solve many stated problems.
+    - **Workflow Automation (PRD-FEAT-AUT):** Needs include reusable templates for events, the ability for a lead teacher to post on behalf of their team, and better group-posting functionality.
+    - **Improved Admin UX (PRD-UX):** Admins need a true dashboard with separate tabs or sections for Announcements, Resources, and Events, rather than a single chronological feed. Filterable inboxes are a must.
+    - **Curriculum Integration (PRD-FEAT-CNT):** A major pain is the disconnect between digital communication and manual curriculum tracking. A tool that links these would be highly valuable.
+
+### Direct Quotes / Verbatim Snippets
+- **Quote:** "[We] would love a feature that is pre-set, not something she has to build for each child, and then she could just go in and click (or voice prompt) to enter the data [for toddler tracking]."
+    - **Speaker:** Interpreted need from toddler teacher interview.
+    - **Context:** Discussing the extreme inefficiency of using the points system to track daily toddler needs.
+    - **Linked Categories:** [NPR-PAIN], [PRD-FEAT-AUT], [CTX-OPS]
+    - **Insight:** Users don't just want digital entry; they want it to be faster than their paper system. This means pre-configured templates and one-click/voice-prompted actions are critical.
+- **Quote:** "...to go back to her last year feed in Dojo and copy paste. Process: 1st Tues of every month @ their weekly meeting they push all the events for the month, she builds them, her team just copies/pastes to share them."
+    - **Speaker:** Observation of a Mentor Teacher's workflow.
+    - **Context:** Explaining the painful process of reusing event information year-over-year.
+    - **Linked Categories:** [CTX-OPS], [NPR-PAIN], [PRD-FEAT-CFG]
+    - **Insight:** There is a clear need for "template" or "clone past event" functionality to support annual recurring events, which are a cornerstone of the school year.
+- **Quote:** "Her messages are jumbled with the whole feed which is frustrating. Ensuring parents are getting communicaitons...talk about how we want tabs for announements: coming this month, what you need, when in one place, viewable seperately, not interspersed in the feed."
+    - **Speaker:** Admin user (Ashwini).
+    - **Context:** Describing the inability to separate high-signal admin announcements from the low-signal daily photo feed.
+    - **Linked Categories:** [STK-USER-ADM], [NPR-PAIN], [PRD-UX]
+    - **Insight:** A single, undifferentiated feed does not work for administrators. They need dedicated, filterable channels to do their job effectively.
+
+### Strategic Implications
+- **Product Strategy:** A winning product must solve the "workaround" problems. The biggest opportunity is to build a truly flexible, integrated tracking system that obsoletes the paper charts and the misuse of "points."
+- **Differentiation:** While Dojo is adding AI, a product that deeply integrates it into core workflows (like voice-prompted toddler tracking or curriculum-aware captioning) would have a significant advantage over Dojo's separate "Sidekick" tool.
+- **User Onboarding:** The skepticism from some teachers about new tech (especially voice/AI) indicates that onboarding and training must be exceptionally smooth. The value proposition must be immediately obvious to overcome inertia.
+- **Target Persona:** The "Overachiever" teachers who take pride in their work but are burdened by the tools are the ideal initial champions. They are motivated to adopt better tools and will influence others. The "Super Admin" who needs better data and control is the ideal buyer.
