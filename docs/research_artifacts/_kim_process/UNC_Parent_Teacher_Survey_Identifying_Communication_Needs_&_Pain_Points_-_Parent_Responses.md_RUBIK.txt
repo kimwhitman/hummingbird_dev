@@ -1,0 +1,41 @@
+Source Document: Parent_Teacher_Survey_Identifying_Communication_Needs_&_Pain_Points_-_Parent_Responses.md
+Document Type: Survey Responses (Markdown Table)
+Processing Date: November 24, 2025
+Primary Category: UNC - Unclassified (Simulated Processing)
+Secondary Categories: STK-USER-BEN, STK-USER-PRI, NPR-PAIN, PRD-FEAT-COM, PRD-FEAT-SCH, PRD-FEAT-ANL, PRD-FEAT-SUP, PRD-FEAT-AUT, PRD-UX
+Complexity: Moderate
+
+Executive Summary:
+This document summarizes parent responses from a survey on communication needs and pain points, primarily concerning Class Dojo. Parent satisfaction with Class Dojo varies, with many rating it 3-5/5, but several express dissatisfaction (scores of 1-2/5). Major pain points include information overload/fragmentation (missing important updates due to excessive notifications or buried information), difficulty finding specific information (events, calendars, past posts), lack of direct parent-to-parent or parent-to-multiple-teacher communication, and the app's "social media" feel or constant upsells for premium features. Parents desire a unified platform for all school communications (calendar, menu, tuition, absence reporting), more frequent and detailed daily updates (including behavior, meals, naps), better media handling (more photos/videos, easier uploads), and direct communication channels. There's a strong preference for consolidated information over fragmented streams (email, flyers, app).
+
+Stakeholder Insights (Parents):
+- Satisfaction with Class Dojo: Ranges from 1/5 to 5/5, with many expressing moderate satisfaction (3-4/5). Some prefer other apps like Brightwheel or Remind.
+- Communication Balance: Mixed feedback, with some feeling too many updates and others not enough.
+- Key Desires: A unified platform, more daily insights, direct communication options, better organization of information.
+
+Needs and Problems:
+- Information Overload & Fragmentation: Multiple communication streams (email, Dojo, flyers) cause parents to miss important updates. Excessive notifications lead to tuning out.
+- Difficulty Finding Information: Important dates, announcements, and past posts are hard to locate due to the timeline format and lack of categorization.
+- Limited Direct Communication: Difficulty contacting other parents directly or messaging multiple teachers at once.
+- Media Handling Issues: Videos take too long to download, and there's a desire for more photos/videos and easier uploads/tagging.
+- App Design & Cost: Complaints about constant upsells for premium features, the app feeling "too colorful, childlike," and the need to pay for features like saving photos.
+- Lack of Daily Detail: Desire for more consistent daily updates on meals, naps, behavior, and learning activities.
+- Inconsistent Teacher Usage: Some teachers post frequently, others rarely, leading to inconsistent information flow.
+- Urgent Communications: Class Dojo is seen as unsuitable for urgent matters (sick child, urgent needs) due to notification lag.
+- Teacher Response Time: Complaints about slow or no replies to messages.
+
+Context Insights:
+- Locations: Responses span River Park, Museum, and Garden campuses.
+- Classrooms: Parents have children in various classrooms, from infant/toddler to elementary levels.
+- Current Systems: Class Dojo is prevalent, but alternatives like Brightwheel, Remind, Procare, and email are also mentioned, often preferred for specific functions.
+
+Product Signals:
+- Feature Needs:
+    - Unified Platform: A single app integrating calendar, menu, tuition payment, absence reporting, messaging, and daily updates.
+    - Enhanced Daily Updates: More frequent photos/videos, details on meals, naps, behavior, learning activities.
+    - Direct Communication: Parent-to-parent messaging, group chats with teachers/admins, direct teacher messaging with read receipts.
+    - Organizational Tools: Searchable history, categorized feeds (events, daily updates, announcements), pinned posts, calendar syncing.
+    - Media: Faster video downloads, in-app camera, easier photo/video uploads and tagging.
+    - Reduced Friction: Less scrolling, fewer notifications for non-urgent matters, no premium upsells, faster teacher response times.
+    - Academic/Behavioral Focus: Information on curriculum, progress, behavior tracking, and home support suggestions.
+- UX Patterns: Desire for simplicity, user-friendliness, consolidated information, and clear distinction between urgent and non-urgent communications.

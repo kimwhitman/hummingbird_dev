@@ -1,0 +1,1 @@
+An image showing an incident report form titled 'Dancing Moose Montessori School Incident Report'. It includes fields for 'Date', 'Time', 'Location', 'Child Involved', 'Adult(s) Involved', 'Witness(es)', 'Description of Incident', 'Action Taken', 'Parent Notification', and 'Signatures'. The form is designed for detailed reporting of incidents involving children.

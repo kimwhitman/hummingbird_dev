@@ -1,0 +1,50 @@
+Source Document: Teacher_Content_Creator_Gamification_Plan.md
+Document Type: Specification / Gamification Plan
+Processing Date: November 24, 2025
+Primary Category: UNC - Unclassified (Simulated Processing)
+Secondary Categories: PRD-FEAT-AUT, PRD-FEAT-SUP, PRD-UX, PRD-FEAT-COM, STK-USER-PRI
+Complexity: Complex
+
+Executive Summary:
+This document details a comprehensive gamification plan for Hummingbird's teacher content creator. The primary goals are to make content capture fun and lightweight for teachers, produce better parent-facing updates, and motivate teachers through positive reinforcement. The plan outlines specific gamification features including Daily Content Prompts, Capture Modes (photo burst, video snippets), AI Tagging & Captioning, a Content Calendar Assistant, automated Digest Assembly, Teacher Role Sharing, a layered Gamification Layer (points, streaks, badges), Metadata Integration, and a Parent-Facing Outcome focused on curated, personal, and connective updates. It includes detailed UX flows, brand voice guidelines, a points/rewards framework, and storyboard/wireframe descriptions for key screens like the Classroom Leaderboard and Badge Showcase. The overall aim is to transform reporting into a delightful, rewarding rhythm that benefits teachers, parents, and administrators by enhancing communication and connection.
+
+Project Goal:
+To design a gamified teacher content ingestion and reporting flow that is fun, light, and motivating, captures better content, automatically generates personalized updates, and creates consistent, high-quality parent feeds, ultimately reducing teacher burden and strengthening parent-school trust.
+
+Teacher Gamification Features:
+1.  **Daily Content Prompts:** Morning nudges guiding teachers on content focus (e.g., gym, art) based on daily activities or events.
+2.  **Capture Modes:** Photo Burst, Video Snippets with Al auto-selection, Portrait/Lighting Assist.
+3.  **AI Tagging & Captioning:** Auto-tags children, recognizes activities, generates educational captions, provides ESL-friendly polish.
+4.  **Content Calendar Assistant:** Predicts recurring events, provides smart reminders, and helps draft class-wide updates.
+5.  **Digest Auto-Assembly:** Generates per-student TikTok-style video summaries with optional audio narration and connection prompts.
+6.  **Teacher Role Sharing:** Distributes roles (Reporter, Connector, Reviewer) daily within 3-teacher classrooms to prevent burnout.
+7.  **Gamification Layer:** Points system, streaks, badges (Variety Champion, Team Player), team leaderboards, micro-celebrations.
+8.  **Metadata Integration:** Lightweight emoji/voice-to-text for mood, supply requests, incident reports.
+9.  **Parent-Facing Outcome:** Curated, personal, story-like updates balancing sweet moments with learning, including daily summary cards and optional digest videos.
+
+UX Flow (Gamified State):
+Guides teachers through the day from morning prompts to end-of-day digest review, emphasizing Al assistance and positive feedback.
+
+Brand Voice:
+Supportive, fun, non-judgmental, playful, and encouraging.
+
+Points System:
+Auto-tracked points for child capture, metadata notes, content variety, and timely digest approval.
+
+Streaks & Badges:
+Daily streaks and badges like "Variety Champion," "Team Player," "Quick Capture," "Parent's Favorite," "Consistency Streak."
+
+Team Leaderboards:
+Optional classroom-level leaderboards to encourage collaboration.
+
+Micro-Celebrations:
+Confetti animations, mascot praise, and end-of-day recap cards for achievements.
+
+Parent-Linked Rewards:
+Teacher points increase with parent delight feedback (likes/comments).
+
+Storyboards & Wireframes:
+Detailed visual guides for Classroom Leaderboard and Badge Showcase screens, illustrating layout, interaction, copy, and emotional hooks.
+
+Outcomes:
+Teachers feel proud and motivated instead of burdened; parents receive high-quality, personal updates; administrators see measurable ROI (teacher hours saved, parent satisfaction up).
